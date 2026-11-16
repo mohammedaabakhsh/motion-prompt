@@ -6,7 +6,7 @@ A pack is one field's set of names. Each list below is readable here on GitHub; 
 
 | Numbers | Pack | Names | Lists |
 |---|---|---|---|
-| 001–024 | `motion` — Motion graphics moves | 24 | [English](motion/README.md) · [Español](motion/README.es.md) · [日本語](motion/README.ja.md) · [简体中文](motion/README.zh-Hans.md) · [繁體中文](motion/README.zh-Hant.md) |
+| 001–024 | `motion` — Motion graphics moves | 24 | [English](motion/README.md) · [العربية](motion/README.ar.md) · [Español](motion/README.es.md) · [日本語](motion/README.ja.md) · [简体中文](motion/README.zh-Hans.md) · [繁體中文](motion/README.zh-Hant.md) |
 | 025–048 | `camera` — Camera moves & transitions | 24 | [English](camera/README.md) · [Español](camera/README.es.md) · [日本語](camera/README.ja.md) · [简体中文](camera/README.zh-Hans.md) · [繁體中文](camera/README.zh-Hant.md) |
 | 049–072 | `ui` — UI component names | 24 | [English](ui/README.md) · [Español](ui/README.es.md) · [日本語](ui/README.ja.md) · [简体中文](ui/README.zh-Hans.md) · [繁體中文](ui/README.zh-Hant.md) |
 | 073–096 | `lp` — Landing page & web effects | 24 | [English](lp/README.md) · [Español](lp/README.es.md) · [日本語](lp/README.ja.md) · [简体中文](lp/README.zh-Hans.md) · [繁體中文](lp/README.zh-Hant.md) |

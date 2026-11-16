@@ -444,6 +444,10 @@ const DOC = {
     intro: '找到名称后直接告诉 AI。补充时长、幅度和运动对象，可以更接近你想要的效果。',
     no: '编号', name: '名称', en: '英文名', meaning: '含义', ask: '向 AI 提出需求的示例',
     more: '点击编号可打开动态示例。单个术语的时间、缓动数值与参考代码位于：', all: '全部分类', preview: '示例' },
+  ar: { gen: 'هذا الملف ينشئه tools/build.mjs من meta.json. للتعديل عدّل meta.json وليس هذا الملف.', names: 'اسم', pack: 'الحزمة', langs: 'اللغات',
+    intro: 'لقيت الاسم؟ قله للذكاء الاصطناعي مثل ما هو. وإذا أضفت كم ثانية، وقد إيش القوة، وإيش اللي يتحرك، تطلع النتيجة أقرب للي في بالك.',
+    no: '#', name: 'الاسم', en: 'بالإنجليزي', meaning: 'وش هو', ask: 'كيف تطلبه من الذكاء الاصطناعي',
+    more: 'كل رقم يفتح المثال المتحرك في المعرض. التوقيتات وقيم الـ Easing والكود المرجعي لكل اسم:', all: 'كل الحزم', preview: 'مثال' },
 };
 const LANG_NAME = { en: 'English', ja: '日本語', zh: '中文', 'zh-Hans': '简体中文', 'zh-Hant': '繁體中文', ko: '한국어', es: 'Español', fr: 'Français', de: 'Deutsch', pt: 'Português', it: 'Italiano', id: 'Bahasa Indonesia', vi: 'Tiếng Việt', th: 'ไทย', hi: 'हिन्दी', ar: 'العربية', ru: 'Русский', tr: 'Türkçe' };
 const readmeName = lang => (lang === BASE_LANG ? 'README.md' : `README.${lang}.md`);
